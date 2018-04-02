@@ -1,4 +1,4 @@
-Class REST.Broker Extends %CSP.REST
+Class Telegram.RESTBroker Extends %CSP.REST
 {
 XData UrlMap
 {
